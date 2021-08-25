@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoalejandro.Common", "todoalejandro.Common\todoalejandro.Common.csproj", "{657A60A4-6B09-4E76-9B5C-3AD9954E3136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoalejandro.Common", "todoalejandro.Common\todoalejandro.Common.csproj", "{657A60A4-6B09-4E76-9B5C-3AD9954E3136}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoalejandro.Functions", "todoalejandro.Functions\todoalejandro.Functions.csproj", "{04461578-ABBB-4E97-9F18-F2A0F015967A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoalejandro.Functions", "todoalejandro.Functions\todoalejandro.Functions.csproj", "{04461578-ABBB-4E97-9F18-F2A0F015967A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoalejandro.Test", "todoalejandro.Test\todoalejandro.Test.csproj", "{FFA5D126-A691-4417-A941-7C83DF81D475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoalejandro.Test", "todoalejandro.Test\todoalejandro.Test.csproj", "{FFA5D126-A691-4417-A941-7C83DF81D475}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
